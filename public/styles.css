@@ -1,0 +1,42 @@
+.input-header {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.input-header_style {
+    background-color: #fac9e1;
+}
+
+.input-header__name {
+    align-self: center;
+    height: auto;
+    width: auto;
+}
+
+.input-header__name_style {
+    font-family: "Roboto Light", serif;
+    font-size: 36px;
+    color: white;
+}
+
+.input-body {
+    width: 100%;
+    height: 900px;
+}
+.input-area {
+    width: 80%;
+    height: 700px;
+}
+
+button {
+    background-color: #faa8f4;
+    font-family: "Roboto Light", serif;
+    color: white;
+    font-size: 20px;
+    height: auto;
+}
+
+
